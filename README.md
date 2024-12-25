@@ -1,1 +1,1 @@
-# mobile-menu-example
+# Mobile menu workshop
